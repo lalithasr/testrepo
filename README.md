@@ -1,4 +1,3 @@
 # testrepo
-test
-Again test of git repo
-this is new
+I am still learning
+someone is helping me
